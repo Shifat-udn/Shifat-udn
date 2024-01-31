@@ -8,7 +8,6 @@
   - [Kusto Query Language (KQL) code for visualization](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/KQL.txt)
     ![image](https://github.com/Shifat-udn/Shifat-udn/assets/141313925/dbc9060f-6d30-4b25-95c7-5de59ad136bd)
 
-  
 
 - <b>Python scripts designed for efficient host enumeration </b>
   - [Open ports & Status on target](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan.py)
@@ -28,7 +27,7 @@
 - <b>Full Stack Web App - Django web application for IT inventory </b>
 - [Project with HTML, Bootstarp & Python](https://github.com/Shifat-udn/IT-support-django)
 
-    <table>
+  <table>
   <tr><td><img src="https://github.com/Shifat-udn/IT-support-django/blob/main/Project-UI-image/Screenshot%202023-08-14%20at%202.58.37%20PM.png"></td>
   <td><img src="https://github.com/Shifat-udn/IT-support-django/blob/main/Project-UI-image/Screenshot%202023-08-14%20at%203.03.53%20PM.png"></td></tr>
   </table>
@@ -37,10 +36,10 @@
 - <b>Full Stack Web App - Django web application for IT inventory </b>
 
  - [<b>CompTIA Security+ </b> | 24 hours training ](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_Prepare%20for%20the%20CompTIA%20Security%20SY0601%20Certification%20Exam.pdf)
- - [<b>CCNP, CCIE Enterprise: ENCOR 350-401 | </b>65 hours training](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_Prepare%20for%20the%20CompTIA%20Security%20SY0601%20Certification%20Exam.pdf)
- - [<b>CompTIA Security+ </b> 24 hours training ](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_Prepare%20for%20the%20CompTIA%20Security%20SY0601%20Certification%20Exam.pdf)
+ - [<b>CCNP, CCIE Enterprise: ENCOR 350-401 | </b>65 hours training](https://github.com/Shifat-udn/Recent-Learning-/blob/main/UC-7c9b9e0b-3a47-444e-ab2e-da316025ef7c.pdf)
+ - [<b>Research and Write Using Generative AI </b> 1.5 hours training ](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_How%20to%20Research%20and%20Write%20Using%20Generative%20AI%20Tools.pdf)
 - [ <b></b>]  
-- [ <b>Research and Write Using Generative AI </b>] 1.5 hours training
+- [ <b></b>] 
 - [ <b>Portswigger SQL Injection lering path </b>] 5 hours training
 - [ <b>Hack The Box - Bug Bounty Hunter </b>] 2 hours training
 
