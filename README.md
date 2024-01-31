@@ -36,12 +36,10 @@
 - <b>Full Stack Web App - Django web application for IT inventory </b>
 
  - [<b>CompTIA Security+ </b> | 24 hours training ](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_Prepare%20for%20the%20CompTIA%20Security%20SY0601%20Certification%20Exam.pdf)
- - [<b>CCNP, CCIE Enterprise: ENCOR 350-401 | </b>65 hours training](https://github.com/Shifat-udn/Recent-Learning-/blob/main/UC-7c9b9e0b-3a47-444e-ab2e-da316025ef7c.pdf)
- - [<b>Research and Write Using Generative AI </b> 1.5 hours training ](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_How%20to%20Research%20and%20Write%20Using%20Generative%20AI%20Tools.pdf)
-- [ <b></b>]  
-- [ <b></b>] 
-- [ <b>Portswigger SQL Injection lering path </b>] 5 hours training
-- [ <b>Hack The Box - Bug Bounty Hunter </b>] 2 hours training
+ - [<b>CCNP, CCIE Enterprise: ENCOR 350-401 </b>| 65 hours training](https://github.com/Shifat-udn/Recent-Learning-/blob/main/UC-7c9b9e0b-3a47-444e-ab2e-da316025ef7c.pdf)
+ - [<b>Research and Write Using Generative AI </b> | 1.5 hours training ](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_How%20to%20Research%20and%20Write%20Using%20Generative%20AI%20Tools.pdf)
+ - [<b>Portswigger SQL Injection lering path </b> | 5 hours training](https://github.com/Shifat-udn/Recent-Learning-/blob/main/Portswigger-SQL-injection.png)
+ - [<b>Hack The Box - Bug Bounty Hunter  </b>| 2 hours training](https://github.com/Shifat-udn/Recent-Learning-/blob/main/Hack%20The%20Box%20-%20Bug%20Bounty%20Hunter.png)
 
 
 
