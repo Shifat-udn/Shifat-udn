@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Microsoft Azure Sentinel - SIEM (Security Information and Event Manager)- visualization of cyber threats with Honeypot </b>
+  - [Open ports & Status on target](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan.py)
+  
+- <b>SQL injection</b>
 - <b>Python scripts designed for efficient host enumeration </b>
   - [Open ports & Status on target](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan.py)
   - [Service Component versions for vulnerability](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan_2.py)
