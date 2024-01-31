@@ -6,7 +6,7 @@
   - [Microsoft Azure Sentinel Setup procedure](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-)
   - [Data Collection with PowerShell](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/Log_Exporter.ps1)
   - [Kusto Query Language (KQL) code for visualization](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/KQL.txt)
-    ![image](https://github.com/Shifat-udn/Shifat-udn/assets/141313925/dbc9060f-6d30-4b25-95c7-5de59ad136bd)
+    <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/map.png">
 
 
 - <b>Python scripts designed for efficient host enumeration </b>
