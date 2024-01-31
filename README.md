@@ -28,6 +28,11 @@
 - <b>Full Stack Web App - Django web application for IT inventory </b>
 - [Project with HTML, Bootstarp & Python](https://github.com/Shifat-udn/IT-support-django)
 
+    <table>
+  <tr><td><img src="https://github.com/Shifat-udn/IT-support-django/blob/main/Project-UI-image/Screenshot%202023-08-14%20at%202.58.37%20PM.png"></td>
+  <td><img src="https://github.com/Shifat-udn/IT-support-django/blob/main/Project-UI-image/Screenshot%202023-08-14%20at%203.03.53%20PM.png"></td></tr>
+  </table>
+
 <h2>📺 Recent Learning  </h2>
 - <b>Full Stack Web App - Django web application for IT inventory </b>
  - [<b>CompTIA Security+ </b> 24 hours training ](https://github.com/Shifat-udn/Recent-Learning-/blob/main/CertificateOfCompletion_Prepare%20for%20the%20CompTIA%20Security%20SY0601%20Certification%20Exam.pdf)
