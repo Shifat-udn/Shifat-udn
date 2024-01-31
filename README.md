@@ -9,7 +9,7 @@
     ![image](https://github.com/Shifat-udn/Shifat-udn/assets/141313925/dbc9060f-6d30-4b25-95c7-5de59ad136bd)
 
   
-- <b>SQL injection</b>
+
 - <b>Python scripts designed for efficient host enumeration </b>
   - [Open ports & Status on target](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan.py)
   - [Service Component versions for vulnerability](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan_2.py)
