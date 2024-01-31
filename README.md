@@ -28,6 +28,14 @@
 - <b>Full Stack Web App - Django web application for IT inventory </b>
 - [Project with HTML, Bootstarp & Python](https://github.com/Shifat-udn/IT-support-django)
 
+<h2>📺 Recent Learning  </h2>
+- [ <b>CompTIA Security+ </b>] 24 hours training  
+- [ <b>CCNP, CCIE Enterprise: ENCOR 350-401 </b>] 65 hours training 
+- [ <b>Research and Write Using Generative AI </b>] 1.5 hours training
+- [ <b>Portswigger SQL Injection lering path </b>] 5 hours training
+- [ <b>Hack The Box - Bug Bounty Hunter </b>] 2 hours training
+
+
 
 <h2>📺 Youtube </h2>
 
