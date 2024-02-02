@@ -11,6 +11,7 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
   - [Azure Log analytics workspace - Web server access monitoring](https://github.com/Shifat-udn/Azure-Log-analytics-workspace)
+    <img src="https://github.com/Shifat-udn/Azure-Log-analytics-workspace/blob/main/apa_log.png">
 
 - <b>Python scripts designed for efficient host enumeration </b>
   - [Open ports & Status on target](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan.py)
