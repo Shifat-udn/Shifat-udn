@@ -8,6 +8,9 @@
   - [Kusto Query Language (KQL) code for visualization](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/KQL.txt)
     <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/map.png">
 
+<h2>👨‍💻 Cloud Projects:</h2>
+
+  - [Azure Log analytics workspace - Web server access monitoring](https://github.com/Shifat-udn/Azure-Log-analytics-workspace)
 
 - <b>Python scripts designed for efficient host enumeration </b>
   - [Open ports & Status on target](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan.py)
