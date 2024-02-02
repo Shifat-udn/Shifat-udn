@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shifat! <br/><a href="https://github.com/Shifat-udn">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/shifat-uddin-0baa86b2/">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">Network</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>:shield: Cybersecurity Projects:</h2>
 
 - <b>Microsoft Azure Sentinel - SIEM (Security Information and Event Manager)- visualization of cyber threats with Honeypot </b>
   - [Microsoft Azure Sentinel Setup procedure](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-)
@@ -8,7 +8,7 @@
   - [Kusto Query Language (KQL) code for visualization](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/KQL.txt)
     <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/map.png">
 
-<h2>👨‍💻 Cloud Projects:</h2>
+<h2>:cloud: Cloud Projects:</h2>
 
   - [Azure Log analytics workspace - Web server access monitoring](https://github.com/Shifat-udn/Azure-Log-analytics-workspace)
   - 
