@@ -7,6 +7,7 @@
   - [Data Collection with PowerShell](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/Log_Exporter.ps1)
   - [Kusto Query Language (KQL) code for visualization](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/KQL.txt)
     <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/map.png">
+- <b>Incident Response Plan - NIST 800 - 60r2 </b>
 
 <h2>:cloud: Cloud Projects:</h2>
 
