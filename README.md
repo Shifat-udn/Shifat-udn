@@ -66,7 +66,7 @@
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/@ShifatUddin-
 [instagram]: https://www.instagram.com/
-[linkedin]:https://www.linkedin.com/in/shifat-uddin-0baa86b2/
+[linkedin]:https://www.linkedin.com/in/shifat-uddin/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
