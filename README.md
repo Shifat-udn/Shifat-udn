@@ -8,6 +8,8 @@
   - [Kusto Query Language (KQL) code for visualization](https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/KQL.txt)
     <img src="https://github.com/Shifat-udn/Microsoft-Azure-Sentinel---SIEM-Security-Information-and-Event-Manager-/blob/main/map.png">
 - <b>Incident Response Plan - NIST 800 - 60r2 </b>
+  - [Template of Incident Response Plan - NIST 800 - 60r2](https://github.com/Shifat-udn/Recent-Learning-/blob/main/INCIDENT-RESPONSE-PLAN(THE%20COMPANY).pdf)
+
 
 <h2>:cloud: Cloud Projects:</h2>
 
@@ -15,9 +17,10 @@
   - 
     <img src="https://github.com/Shifat-udn/Azure-Log-analytics-workspace/blob/main/apa_log.png" width="500" height="300">
 
-- <b>Python scripts designed for efficient host enumeration </b>
+- <b>Pentest-Tools (Enumeration, Scan , Access </b>
   - [Open ports & Status on target](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan.py)
   - [Service Component versions for vulnerability](https://github.com/Shifat-udn/Cyber-Security/blob/main/host_scan_2.py)
+  - [Install Greenbone OpenVAS- Vulnerability Assessment Scanner and fix PostgreSQL error](https://github.com/Shifat-udn/Pentest-Tools/blob/main/Install-openVAS-GVM.pdf)
 - <b>SQL injection</b>
   - [SQL Injection Cheat Sheet](https://github.com/Shifat-udn/Cyber-Security/blob/main/SQLi.txt)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -49,7 +52,7 @@
 
 - [Breaking the Code: How computer programing works](https://www.youtube.com/watch?v=IRFELQCTImc)
 - [How to Create a KeyLogger (Python)](https://thepythoncode.com/article/write-a-keylogger-python)
-- [Ransomware Demonstration (Python)](https://thepythoncode.com/article/make-a-ransomware-in-python)
+- [Python Indentation, Variables, and Comments | Fundamentals Explained (Python)](https://www.youtube.com/watch?v=EefwjSDxaH0))
 
 
 <h2>📺 Network & Firewall Projects</h2>
