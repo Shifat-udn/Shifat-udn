@@ -25,6 +25,16 @@
   - [SQL Injection Cheat Sheet](https://github.com/Shifat-udn/Cyber-Security/blob/main/SQLi.txt)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 
+<h2>:Secure Access Service Edge (SASE): Microsoft-Security-Service-Edge (SSE):</h2>
+
+  - [Microsoft-Security-Service-Edge-SSE - global secure access](https://github.com/Shifat-udn/Microsoft-Security-Service-Edge-SSE-)
+  - 
+    <img src="https://github.com/Shifat-udn/Microsoft-Security-Service-Edge-SSE-/blob/main/Microsoft_Entra_Private_Access.png" width="700" height="300">
+
+- <b>Global Secure Access </b>
+  - [Microsoft Entra Private Access](https://github.com/Shifat-udn/Microsoft-Security-Service-Edge-SSE-/blob/main/Microsoft%20Entra%20Private%20access_g.pdf)
+  - [Microsoft Entra Internet Access](https://github.com/Shifat-udn/Microsoft-Security-Service-Edge-SSE-/blob/main/Microsoft%20Entra%20Internet%20access.pdf)
+
 
 <h2>📺 Python Web Application Projects</h2>
 
